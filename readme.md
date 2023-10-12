@@ -58,7 +58,43 @@ MazeMaster is an enthralling maze navigation game, meticulously crafted in C#. E
 
 ## Installation & Play 🛠️
 
-*Include specific instructions on how to install and initiate the game, and any system requirements or prerequisites.*
+How to Run MazeMaster 🚀
+Prerequisites
+Install Visual Studio:
+Download and install Visual Studio if not already installed.
+During installation, make sure to select the ".NET desktop development" workload.
+Clone the Repository
+Clone from GitHub:
+
+Click the green "Code" button on the GitHub repository page.
+Copy the HTTPS URL.
+Open Visual Studio.
+Select "Clone a repository" under "Get started".
+Paste the copied URL in the "Repository location" field.
+Choose a local path where you want to clone the repository and click the "Clone" button.
+OR
+
+Alternatively, you can use Git from the command line to clone the repository:
+sh
+Copy code
+git clone [Repository_URL]
+Replace [Repository_URL] with the URL you copied.
+Open and Run the Game
+Open the Solution:
+
+In Visual Studio, navigate to the local path where you cloned the repository.
+Open the .sln solution file.
+Build the Solution:
+
+Click on "Build" in the top menu.
+Select "Build Solution" from the dropdown menu.
+Run the Game:
+
+Click on the green "Start" button, or press F5 on your keyboard to run the game.
+Play and Enjoy:
+
+Navigate, fight, and survive through the thrilling mazes of MazeMaster!
+
 
 
 
